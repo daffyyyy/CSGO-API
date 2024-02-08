@@ -26961,5 +26961,185 @@
             }
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_32.2d4bcc3d6832d2b4d1d11a273a4ff4bf55dc63a1.png"
+    },
+    {
+        "id": "crate-4904",
+        "name": "千瓦武器箱",
+        "description": null,
+        "type": "Case",
+        "first_sale_date": "2024-01-31",
+        "contains": [
+            {
+                "id": "skin-135748",
+                "name": "双持贝瑞塔 | 藏身处",
+                "rarity": {
+                    "id": "rarity_rare_weapon",
+                    "name": "军规级",
+                    "color": "#4b69ff"
+                },
+                "paint_index": "1169"
+            },
+            {
+                "id": "skin-1118768",
+                "name": "MAC-10 | 灯箱",
+                "rarity": {
+                    "id": "rarity_rare_weapon",
+                    "name": "军规级",
+                    "color": "#4b69ff"
+                },
+                "paint_index": "1164"
+            },
+            {
+                "id": "skin-2298408",
+                "name": "新星 | 黑暗徽记",
+                "rarity": {
+                    "id": "rarity_rare_weapon",
+                    "name": "军规级",
+                    "color": "#4b69ff"
+                },
+                "paint_index": "1162"
+            },
+            {
+                "id": "skin-2626084",
+                "name": "SSG 08 | 灾难",
+                "rarity": {
+                    "id": "rarity_rare_weapon",
+                    "name": "军规级",
+                    "color": "#4b69ff"
+                },
+                "paint_index": "1161"
+            },
+            {
+                "id": "skin-1970716",
+                "name": "Tec-9 | 渣渣",
+                "rarity": {
+                    "id": "rarity_rare_weapon",
+                    "name": "军规级",
+                    "color": "#4b69ff"
+                },
+                "paint_index": "1159"
+            },
+            {
+                "id": "skin-1577564",
+                "name": "UMP-45 | 机动化",
+                "rarity": {
+                    "id": "rarity_rare_weapon",
+                    "name": "军规级",
+                    "color": "#4b69ff"
+                },
+                "paint_index": "1175"
+            },
+            {
+                "id": "skin-1643096",
+                "name": "XM1014 | 刺青",
+                "rarity": {
+                    "id": "rarity_rare_weapon",
+                    "name": "军规级",
+                    "color": "#4b69ff"
+                },
+                "paint_index": "1174"
+            },
+            {
+                "id": "skin-266812",
+                "name": "格洛克 18 型 | 崩络克-18",
+                "rarity": {
+                    "id": "rarity_mythical_weapon",
+                    "name": "受限",
+                    "color": "#8847ff"
+                },
+                "paint_index": "1167"
+            },
+            {
+                "id": "skin-1053236",
+                "name": "M4A4 | 蚀刻领主",
+                "rarity": {
+                    "id": "rarity_mythical_weapon",
+                    "name": "受限",
+                    "color": "#8847ff"
+                },
+                "paint_index": "1165"
+            },
+            {
+                "id": "skin-201280",
+                "name": "FN57 | 混合体",
+                "rarity": {
+                    "id": "rarity_mythical_weapon",
+                    "name": "受限",
+                    "color": "#8847ff"
+                },
+                "paint_index": "1168"
+            },
+            {
+                "id": "skin-2167340",
+                "name": "MP7 | 笑一个",
+                "rarity": {
+                    "id": "rarity_mythical_weapon",
+                    "name": "受限",
+                    "color": "#8847ff"
+                },
+                "paint_index": "1163"
+            },
+            {
+                "id": "skin-1905184",
+                "name": "截短霰弹枪 | 模拟输入",
+                "rarity": {
+                    "id": "rarity_mythical_weapon",
+                    "name": "受限",
+                    "color": "#8847ff"
+                },
+                "paint_index": "1160"
+            },
+            {
+                "id": "skin-3936824",
+                "name": "M4A1 消音型 | 黑莲花",
+                "rarity": {
+                    "id": "rarity_legendary_weapon",
+                    "name": "保密",
+                    "color": "#d32ce6"
+                },
+                "paint_index": "1166"
+            },
+            {
+                "id": "skin-2036304",
+                "name": "宙斯 X27 电击枪 | 奥林匹斯",
+                "rarity": {
+                    "id": "rarity_legendary_weapon",
+                    "name": "保密",
+                    "color": "#d32ce6"
+                },
+                "paint_index": "1172"
+            },
+            {
+                "id": "skin-4002388",
+                "name": "USP 消音版 | 破颚者",
+                "rarity": {
+                    "id": "rarity_legendary_weapon",
+                    "name": "保密",
+                    "color": "#d32ce6"
+                },
+                "paint_index": "1173"
+            },
+            {
+                "id": "skin-594504",
+                "name": "AWP | 镀铬大炮",
+                "rarity": {
+                    "id": "rarity_ancient_weapon",
+                    "name": "隐秘",
+                    "color": "#eb4b4b"
+                },
+                "paint_index": "1170"
+            },
+            {
+                "id": "skin-463436",
+                "name": "AK-47 | 传承",
+                "rarity": {
+                    "id": "rarity_ancient_weapon",
+                    "name": "隐秘",
+                    "color": "#eb4b4b"
+                },
+                "paint_index": "1171"
+            }
+        ],
+        "contains_rare": []
     }
 ]

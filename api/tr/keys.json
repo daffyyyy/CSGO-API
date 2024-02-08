@@ -550,6 +550,17 @@
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_32.fa9b42c1eefd4304b2860014584fa42309675505.png"
     },
     {
+        "id": "key-1394",
+        "name": "Kilovat Kasası Anahtarı",
+        "description": "Bu anahtar sadece Kilovat kasalarını açar.",
+        "crates": [
+            {
+                "id": "crate-4904",
+                "name": "Kilovat Kasası"
+            }
+        ]
+    },
+    {
         "id": "key-7000",
         "name": "Yaban Ateşi Operasyonu Kasası Anahtarı",
         "description": "Bu anahtar sadece Yaban Ateşi Operasyonu Kasalarını açar",
