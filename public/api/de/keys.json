@@ -550,6 +550,17 @@
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_32.fa9b42c1eefd4304b2860014584fa42309675505.png"
     },
     {
+        "id": "key-1394",
+        "name": "Kistenschlüssel „Kilowatt“",
+        "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Kilowatt“",
+        "crates": [
+            {
+                "id": "crate-4904",
+                "name": "Waffenkiste „Kilowatt“"
+            }
+        ]
+    },
+    {
         "id": "key-7000",
         "name": "Kistenschlüssel „Operation Wildfire“",
         "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Serie Operation Wildfire",

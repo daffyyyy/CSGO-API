@@ -550,6 +550,17 @@
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_32.fa9b42c1eefd4304b2860014584fa42309675505.png"
     },
     {
+        "id": "key-1394",
+        "name": "Llave de caja Kilovatio",
+        "description": "Esta llave solo abre cajas Kilovatio.",
+        "crates": [
+            {
+                "id": "crate-4904",
+                "name": "Caja Kilovatio"
+            }
+        ]
+    },
+    {
         "id": "key-7000",
         "name": "Llave de caja de la Operación Wildfire",
         "description": "Esta llave solo abre cajas de la Operación Wildfire.",

@@ -2975,14 +2975,14 @@
     },
     {
         "id": "crate-4882",
-        "name": "Anubis Collection Package",
+        "name": "Anubis-kokoelmapaketti",
         "description": null,
         "type": null,
         "first_sale_date": "2023/04/24",
         "contains": [
             {
                 "id": "skin-4199252",
-                "name": "R8-revolveri | Inlay",
+                "name": "R8-revolveri | Koristeupotus",
                 "rarity": {
                     "id": "rarity_common_weapon",
                     "name": "Kuluttajatason",

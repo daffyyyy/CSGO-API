@@ -13779,6 +13779,182 @@
         "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
     },
     {
+        "id": "collection-set-community-33",
+        "name": "ชุดสะสม Kilowatt",
+        "contains": [
+            {
+                "id": "skin-1970716",
+                "name": "Tec-9 | Slag",
+                "rarity": {
+                    "id": "rarity_rare_weapon",
+                    "name": "เกรดมาตรฐานทางทหาร",
+                    "color": "#4b69ff"
+                },
+                "paint_index": "1159"
+            },
+            {
+                "id": "skin-1643096",
+                "name": "XM1014 | Irezumi",
+                "rarity": {
+                    "id": "rarity_rare_weapon",
+                    "name": "เกรดมาตรฐานทางทหาร",
+                    "color": "#4b69ff"
+                },
+                "paint_index": "1174"
+            },
+            {
+                "id": "skin-1577564",
+                "name": "UMP-45 | Motorized",
+                "rarity": {
+                    "id": "rarity_rare_weapon",
+                    "name": "เกรดมาตรฐานทางทหาร",
+                    "color": "#4b69ff"
+                },
+                "paint_index": "1175"
+            },
+            {
+                "id": "skin-2626084",
+                "name": "SSG 08 | Dezastre",
+                "rarity": {
+                    "id": "rarity_rare_weapon",
+                    "name": "เกรดมาตรฐานทางทหาร",
+                    "color": "#4b69ff"
+                },
+                "paint_index": "1161"
+            },
+            {
+                "id": "skin-135748",
+                "name": "Dual Berettas | Hideout",
+                "rarity": {
+                    "id": "rarity_rare_weapon",
+                    "name": "เกรดมาตรฐานทางทหาร",
+                    "color": "#4b69ff"
+                },
+                "paint_index": "1169"
+            },
+            {
+                "id": "skin-2298408",
+                "name": "Nova | Dark Sigil",
+                "rarity": {
+                    "id": "rarity_rare_weapon",
+                    "name": "เกรดมาตรฐานทางทหาร",
+                    "color": "#4b69ff"
+                },
+                "paint_index": "1162"
+            },
+            {
+                "id": "skin-1118768",
+                "name": "MAC-10 | Light Box",
+                "rarity": {
+                    "id": "rarity_rare_weapon",
+                    "name": "เกรดมาตรฐานทางทหาร",
+                    "color": "#4b69ff"
+                },
+                "paint_index": "1164"
+            },
+            {
+                "id": "skin-266812",
+                "name": "Glock-18 | Block-18",
+                "rarity": {
+                    "id": "rarity_mythical_weapon",
+                    "name": "หวงห้าม",
+                    "color": "#8847ff"
+                },
+                "paint_index": "1167"
+            },
+            {
+                "id": "skin-1053236",
+                "name": "M4A4 | Etch Lord",
+                "rarity": {
+                    "id": "rarity_mythical_weapon",
+                    "name": "หวงห้าม",
+                    "color": "#8847ff"
+                },
+                "paint_index": "1165"
+            },
+            {
+                "id": "skin-2167340",
+                "name": "MP7 | Just Smile",
+                "rarity": {
+                    "id": "rarity_mythical_weapon",
+                    "name": "หวงห้าม",
+                    "color": "#8847ff"
+                },
+                "paint_index": "1163"
+            },
+            {
+                "id": "skin-1905184",
+                "name": "Sawed-Off | Analog Input",
+                "rarity": {
+                    "id": "rarity_mythical_weapon",
+                    "name": "หวงห้าม",
+                    "color": "#8847ff"
+                },
+                "paint_index": "1160"
+            },
+            {
+                "id": "skin-201280",
+                "name": "Five-SeveN | Hybrid",
+                "rarity": {
+                    "id": "rarity_mythical_weapon",
+                    "name": "หวงห้าม",
+                    "color": "#8847ff"
+                },
+                "paint_index": "1168"
+            },
+            {
+                "id": "skin-3936824",
+                "name": "M4A1-S | Black Lotus",
+                "rarity": {
+                    "id": "rarity_legendary_weapon",
+                    "name": "ปกปิด",
+                    "color": "#d32ce6"
+                },
+                "paint_index": "1166"
+            },
+            {
+                "id": "skin-2036304",
+                "name": "Zeus x27 | Olympus",
+                "rarity": {
+                    "id": "rarity_legendary_weapon",
+                    "name": "ปกปิด",
+                    "color": "#d32ce6"
+                },
+                "paint_index": "1172"
+            },
+            {
+                "id": "skin-4002388",
+                "name": "USP-S | Jawbreaker",
+                "rarity": {
+                    "id": "rarity_legendary_weapon",
+                    "name": "ปกปิด",
+                    "color": "#d32ce6"
+                },
+                "paint_index": "1173"
+            },
+            {
+                "id": "skin-594504",
+                "name": "AWP | Chrome Cannon",
+                "rarity": {
+                    "id": "rarity_ancient_weapon",
+                    "name": "ลึกลับ",
+                    "color": "#eb4b4b"
+                },
+                "paint_index": "1170"
+            },
+            {
+                "id": "skin-463436",
+                "name": "AK-47 | Inheritance",
+                "rarity": {
+                    "id": "rarity_ancient_weapon",
+                    "name": "ลึกลับ",
+                    "color": "#eb4b4b"
+                },
+                "paint_index": "1171"
+            }
+        ]
+    },
+    {
         "id": "collection-4617",
         "name": "ชุดสะสม CS:GO Graffiti #3",
         "contains": [],

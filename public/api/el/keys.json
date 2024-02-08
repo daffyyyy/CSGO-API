@@ -550,6 +550,17 @@
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_32.fa9b42c1eefd4304b2860014584fa42309675505.png"
     },
     {
+        "id": "key-1394",
+        "name": "Κλειδί θήκης Kilowatt",
+        "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Kilowatt",
+        "crates": [
+            {
+                "id": "crate-4904",
+                "name": "Θήκη Kilowatt"
+            }
+        ]
+    },
+    {
         "id": "key-7000",
         "name": "Κλειδί θήκης επιχείρησης Wildfire",
         "description": "Αυτό το κλειδί ανοίγει μόνο θήκες επιχείρησης Wildfire",
