@@ -74,11 +74,11 @@ export const LANGUAGES_URL = [
     //     folder: "fr",
     //     url: getLanguageUrl("french"),
     // },
-    // {
-    //     language: "german",
-    //     folder: "de",
-    //     url: getLanguageUrl("german"),
-    // },
+    {
+        language: "german",
+        folder: "de",
+        url: getLanguageUrl("german"),
+    },
     // {
     //     language: "greek",
     //     folder: "el",
@@ -109,69 +109,54 @@ export const LANGUAGES_URL = [
     // folder: "ko",
     // url: getLanguageUrl("koreana"),
     // },
-    // {
-    //     language: "spanish (Latin America)",
-    //     folder: "es-MX",
-    //     url: getLanguageUrl("latam"),
-    // },
-    // {
-    //     language: "norwegian",
-    //     folder: "no",
-    //     url: getLanguageUrl("norwegian"),
-    // },
-    //   {
-    //     language: "pirate",
-    //     folder: "pirate",
-    //     url: getLanguageUrl("pirate"),
-    //   },
-    // {
-    //     language: "polish",
-    //     folder: "pl",
-    //     url: getLanguageUrl("polish"),
-    // },
-    // {
-    //     language: "portuguese",
-    //     folder: "pt-PT",
-    //     url: getLanguageUrl("portuguese"),
-    // },
-    // {
-    //     language: "romanian",
-    //     folder: "ro",
-    //     url: getLanguageUrl("romanian"),
-    // },
-    // {
-    //     language: "schinese_pw",
-    //     folder: "zh-CN",
-    //     url: getLanguageUrl("schinese_pw"),
-    // },
-    // {
-    //     language: "swedish",
-    //     folder: "sv",
-    //     url: getLanguageUrl("swedish"),
-    // },
-    // {
-    //     language: "tchinese",
-    //     folder: "zh-TW",
-    //     url: getLanguageUrl("tchinese"),
-    // },
-    // {
-    //     language: "thai",
-    //     folder: "th",
-    //     url: getLanguageUrl("thai"),
-    // },
-    // {
-    //     language: "turkish",
-    //     folder: "tr",
-    //     url: getLanguageUrl("turkish"),
-    // },
-    // {
-    //     language: "ukrainian",
-    //     folder: "uk",
-    //     url: getLanguageUrl("ukrainian"),
-    // },
-    // {
-    //     language: "vietnamese",
-    //     folder: "vi",
-    //     url: getLanguageUrl("vietnamese"),
-    // },
+    {
+        language: "norwegian",
+        folder: "no",
+        url: getLanguageUrl("norwegian"),
+    },
+    {
+        language: "polish",
+        folder: "pl",
+        url: getLanguageUrl("polish"),
+    },
+    {
+        language: "portuguese",
+        folder: "pt-PT",
+        url: getLanguageUrl("portuguese"),
+    },
+    {
+        language: "romanian",
+        folder: "ro",
+        url: getLanguageUrl("romanian"),
+    },
+    {
+        language: "schinese_pw",
+        folder: "zh-CN",
+        url: getLanguageUrl("schinese_pw"),
+    },
+    {
+        language: "swedish",
+        folder: "sv",
+        url: getLanguageUrl("swedish"),
+    },
+    {
+        language: "tchinese",
+        folder: "zh-TW",
+        url: getLanguageUrl("tchinese"),
+    },
+    {
+        language: "thai",
+        folder: "th",
+        url: getLanguageUrl("thai"),
+    },
+    {
+        language: "turkish",
+        folder: "tr",
+        url: getLanguageUrl("turkish"),
+    },
+    {
+        language: "ukrainian",
+        folder: "uk",
+        url: getLanguageUrl("ukrainian"),
+    },
 ];
