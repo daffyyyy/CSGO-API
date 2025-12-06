@@ -4,49 +4,49 @@
   "name": "Desert Eagle",
   "description": "身為經典款手槍的沙漠之鷹有著不失它定價尊嚴的高破壞力，雖然駕馭不易卻在遠距準確度這方面有著令人咋舌的出色表現。",
   "def_index": 1,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_deagle_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnk-CNc4_fgOfA8cfGRDTfGku13seI4Fyq2wUQm5DjWzo38IH3BO1N2W5MmTe5etw74zINmLLSKdA"
  },
  {
   "id": "base_weapon-weapon_elite",
   "name": "Dual Berettas",
   "description": "雖然同時抓著兩把貝瑞塔手槍進行射擊意味著無法兼顧的較差準確度以及有兩個彈匣要換將更為耗時，不過論好處來說至少雙手所掌握的火力也會是兩倍。",
   "def_index": 2,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_elite_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnl8StP6ryvOqJpJqjACjbBkb93srg-Fn7ilBhysWXSyNarJSqUZlIpCMclTbMCrFDmxYRwJ9Kk"
  },
  {
   "id": "base_weapon-weapon_fiveseven",
   "name": "Five-SeveN",
   "description": "精準且具備穿甲能力，威力偏低的 Five-seveN 雖然得費好一會工夫才能撂倒敵人卻有著連續擊中目標所需的 20 發的高容量彈匣還有低後座力來供它好好表現。",
   "def_index": 3,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_fiveseven_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnm9DRe_Pe4baojePHHWz7GwL4jsbVvTHnilE1w5WrVzo39JH6QOFUnC8RxROMN4ESwlMqnab24YkBbtQ"
  },
  {
   "id": "base_weapon-weapon_glock",
   "name": "Glock-18",
   "description": "Glock 18 是一把堪用且能成切換三點放射擊模式的手槍，在對手未著防彈衣的頭幾個回合中最為有效。",
   "def_index": 4,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_glock_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnn8S1Y5Lz9O_M5d_LHDz6WmOp04-U8THmwzU0l6ziDyd__IC3DO1IgXJJwE7NfrFDmxU9v5GXb"
  },
  {
   "id": "base_weapon-weapon_ak47",
   "name": "AK-47",
   "description": "威力強大且可靠，身為世界上最受青睞的突擊步槍之一的 AK-47 在收放得當的點放射擊之下最能彰顯其致命性。",
   "def_index": 7,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_ak47_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnh9nYMoaCvMfxudKGVC2bIwLku5bFsHn2xzU1w4W_Tm9-ucn2eaQZxWcYmR-IU8k7vea-fOvM"
  },
  {
   "id": "base_weapon-weapon_aug",
   "name": "AUG",
   "description": "高威力和高準度， 配有瞄準鏡的AUG是款犧牲換彈速度換取穩定彈道以及射擊速率的突擊步槍。",
   "def_index": 8,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_aug_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnh6CUV7ff8PP08eanED2LHlLh06ec-TnjmkUUmsGXRn4n8cimTPVB0XsR1RPlK7Ee4GsImgw"
  },
  {
   "id": "base_weapon-weapon_awp",
   "name": "AWP",
   "description": "高風險高報酬的 AWP 因為它的招牌槍聲以及秉持的一槍斃命政策而落得惡名昭彰，但也因此大名鼎鼎。",
   "def_index": 9,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_awp_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnh6jIVtqr4PqBoI_ORVjXFkeguseMwGXGwwUV_4GmHyd2qdH-WbFAmApsiQPlK7EcMn7y-CQ"
  },
  {
   "id": "base_weapon-weapon_famas",
@@ -67,21 +67,21 @@
   "name": "Galil AR",
   "description": "在恐怖份子限定的突擊步槍之中 Galil AR 是款耐用且也不會那麼昂貴的選擇。",
   "def_index": 13,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_galilar_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnn_C5S4_O8JvZrIaPKV2ORx7d3trg7Gnjmlxl04WTTyoyqeXKUPFVzCsN1FuMJuxam0oqwr0aqT-w"
  },
  {
   "id": "base_weapon-weapon_m249",
   "name": "M249",
   "description": "對於那些願意犧牲射速換取較高的準確度還有大彈鼓所帶來的高續航力的玩家來說 M249  將會是款強而有力且泛用的完美選擇。",
   "def_index": 14,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_m249_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKntr3YCoaarbfc_IvHDWWLClb8g5OA7F3y1l0xw6juBzdeoJX6fZ1IoWcciQ-UU8k7vtOr9c-I"
  },
  {
   "id": "base_weapon-weapon_m4a1",
   "name": "M4A4",
   "description": "M4A4 是反恐小組陣營中全自動突擊步槍的不二選擇，比照對手陣營的 AK-47 來說更為準確不過殺傷力較小。",
   "def_index": 16,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_m4a1_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKntqSMKofH_O_Y-JfSVV2XBkLolsbZvTCqxx0sk4DjUnNipdSiQagcgXJQlRLEU8k7vIDSSpqI"
  },
  {
   "id": "base_weapon-weapon_mac10",
@@ -109,7 +109,7 @@
   "name": "UMP-45",
   "description": "UMP45 是款在衝鋒槍家族中飽受冷落的中庸選擇，若非因為彈匣容量這個唯一缺點的話不然還挺全能的。",
   "def_index": 24,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_ump45_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKn18DIPurz6MPducqDGCDPIw7l05LA7SXyylkh25z-Dm9agJHKSZgciDZt3F7JerFDmxeILsNGi"
  },
  {
   "id": "base_weapon-weapon_xm1014",
@@ -123,7 +123,7 @@
   "name": "PP-Bizon",
   "description": "Bizon 衝鋒槍的傷害雖小卻具有能夠容納大量彈藥和迅速更換的彈鼓設計。",
   "def_index": 26,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_bizon_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKni9DhU4bz-PKZocPTBW2GWlbZw4bM7SS2xwER1smSEnIv6dS_GbFBxDJd0RLFbrFDmxaLGO5J-"
  },
  {
   "id": "base_weapon-weapon_mag7",
@@ -137,49 +137,49 @@
   "name": "Negev",
   "description": "Negev 是一頭能準確撒出壓制火力的猛獸，但前提是使用者要有足夠時間馴服它的後座力。",
   "def_index": 28,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_negev_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnu-CVe-bz3P6I1caTGDzTFk7gh5rg6Tn3rkBwm4zjSwo3_Ii-fZgIjA8dwELFZrFDmxWhBRARX"
  },
  {
   "id": "base_weapon-weapon_sawedoff",
   "name": "Sawed-Off",
   "description": "這款相當典型的裁短式霰彈槍能在近距離造成強烈的傷害，但基於準度不佳、飄散程度大和射速偏慢的緣故使用時最好還是謹慎出手為妙。",
   "def_index": 29,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_sawedoff_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnz_DVe6_2obuo_JqHACzaSk-1wtrMwTi3nkUly6m-ByYr4Jy2fP1cgA8dxFLRfu0LqjJS5YC4vtNQk"
  },
  {
   "id": "base_weapon-weapon_tec9",
   "name": "Tec-9",
   "description": "Tec-9 是恐怖份子四處行動的理想手槍，在近距離戰鬥中非常致命並且有著持久火力。",
   "def_index": 30,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_tec9_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKn0-CECofb2MKY9IvPGWjPAkrwi5Lk4Tn3nzUwlsGnVzI6pdymQbVAjW8d0F-IU8k7vdMx23Ho"
  },
  {
   "id": "base_weapon-weapon_taser",
   "name": "Zeus x27",
   "description": "對付突如其來或準備伏擊的敵人非常有用的充電武器 x27 Zeus，單發即可擊殺一位敵人。",
   "def_index": 31,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_taser_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKn0_DFe_bz6PKI4caTCDzHCwrkj57U6FnHik0l04mXVw4yhJCiRaVImW8dzTeRcrFDmxd8qNG47"
  },
  {
   "id": "base_weapon-weapon_hkp2000",
   "name": "P2000",
   "description": "準確且容易掌握，由德國工藝製成的 P2000 是把能夠在開局回合中有效對抗未著防彈衣的對手的利器。",
   "def_index": 32,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_hkp2000_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKno9jIJv6L-Jqc_cKjEWDDDlLx3trVrH3qykEtz4TjQno6td3uVbVRyWZR2EbEKtRCm0oqwKXhPxN4"
  },
  {
   "id": "base_weapon-weapon_mp7",
   "name": "MP7",
   "description": "出自德國工藝的 MP7 衝鋒槍雖然多才多藝是款用於近距離激烈戰鬥的完美選擇但卻不怎便宜。",
   "def_index": 33,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mp7_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnt7XUVvfOoPqA1eKHEVjXFlr0ituM_SnqwwR9w4mXVyIn6dnKRblV1D5AhTPlK7EelyO1yEg"
  },
  {
   "id": "base_weapon-weapon_mp9",
   "name": "MP9",
   "description": "出自瑞士，採用尖端科技的 MP9 衝鋒槍有著人體工學設計並由聚合材質打造而成，是私人保全行業的最愛。",
   "def_index": 34,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mp9_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnt7XsVv6T9OvE9dKLKCD_Ex74h5bY6Tnrgl0hzt2rXm4qseXyWaAMgWJJ2EflK7Ec0i602wg"
  },
  {
   "id": "base_weapon-weapon_nova",
@@ -193,7 +193,7 @@
   "name": "P250",
   "description": "具有低後座力還有高射速， P250 用於對付身穿護甲的對手時是款的價格宜人的選擇。",
   "def_index": 36,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_p250_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnwr3cLoaf4avNvJqKXXmKUlrp0s-U9HCvgw0V05WSDw96pIC6VOw92X8QkROAU8k7vNwsvFQ4"
  },
  {
   "id": "base_weapon-weapon_scar20",
@@ -214,14 +214,14 @@
   "name": "SSG 08",
   "description": "SSG08 是款傷害普通且需要手動操作槍機的單發狙擊步槍，但有著非常好的性價比因此使它成為早期回合中遠距離狙擊的明智選擇。",
   "def_index": 40,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_ssg08_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnz7iULt7z2MPY1eaWVCDHGlrgksuQ_HS3lxhkh4m-Gm9b6ICjCPQ4hDMF3EOJerFDmxXJ24aAg"
  },
  {
   "id": "base_weapon-weapon_knife",
   "name": "軍刀",
   "description": "安靜且隨時可得，軍刀分別擁有高速低傷害的主要攻擊和高傷害低速的次要攻擊。背刺將可迅速且安靜地殺死敵人。",
   "def_index": 42,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_knife_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6rz5PvI9dPbGX2HGl7dw4LYxHn3mlkshtWmHzI74IyqVbQQnWZN1Q7QLrFDmxYFVbevc"
  },
  {
   "id": "base_weapon-weapon_flashbang",
@@ -284,35 +284,35 @@
   "name": "軍刀",
   "description": "安靜且隨時可得，軍刀分別擁有高速低傷害的主要攻擊和高傷害低速的次要攻擊。背刺將可迅速且安靜地殺死敵人。",
   "def_index": 59,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_knife_t_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s26JqJodqWRXjXBlLt05bM7TX21kx91527RnN-teXzFPQYpD5ckQbYM4BCm0oqwrVaqAqg"
  },
  {
   "id": "base_weapon-weapon_m4a1_silencer",
   "name": "M4A1-S",
   "description": "比起沒消音器的原版彈匣容量更小。消音版的 M4A1 槍聲更為小聲，並擁有較小的後座力與加強的精準度。",
   "def_index": 60,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_m4a1_silencer_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKntqSMK0OGnZKFjI_WBQD_Cleh0teA_F37qkERy52rWm9yhdynGblMgD5AkQrZeuhXtkt3iMOv8p1uJZpwq8Vo"
  },
  {
   "id": "base_weapon-weapon_usp_silencer",
   "name": "USP-S",
   "description": "從《絕對武力：次世代》深受玩家喜愛並轉移過來的消音版 USP 手槍。有著能隨時拆裝的消音器，給予較低的後座力並降低開火的音量。",
   "def_index": 61,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_usp_silencer_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKn17jJk_PuibapuJeLdWGLFwL8i4eVsFiqxxUt34jmHnoysJ3qVOAYgCJZwQrRb5EPul4XlYvSiuVIHgy4Xvg"
  },
  {
   "id": "base_weapon-weapon_cz75a",
   "name": "CZ75-Auto",
   "description": "CZ75-Auto 為 CZ75 手槍衍生出來的全自動型號，是一款短期內為了翻盤以取得您對手武器的理想選擇。但是由於配給的彈藥非常稀少，射手將需要一隻有著足夠定力的食指。",
   "def_index": 63,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_cz75a_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnj53UO7ryvaac0dKiVW2XBlrwmsuA6GH3hkE9062qEz9aoeCmVawchW8dwEe4MrFDmxWPDR_Ga"
  },
  {
   "id": "base_weapon-weapon_revolver",
   "name": "R8 Revolver",
   "description": "R8 Revolver 提供了高度精確且強力的彈藥，代價是扣扳機耗時極久。透過搧動擊鎚快速開火可能是在需要近距離交火時的最佳選擇。",
   "def_index": 64,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_revolver_png.png"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKny-DRU4-Sreuo8cvTLCzKRmbkk4ONtGijilk8k4znWy9v8JCiUaQIiWZpyQ-AJtEa7jJS5YM17OTN5"
  },
  {
   "id": "base_weapon-weapon_bayonet",
