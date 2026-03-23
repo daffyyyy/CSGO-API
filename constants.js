@@ -3,11 +3,11 @@ const getLanguageUrl = language => {
 };
 
 export const getImageUrl = path => {
-    return `https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/${path}_png.png`;
+    return `https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/${path}_png.png`;
 };
 
 export const getImageUrlSvg = path => {
-    return `https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/${path}.svg`;
+    return `https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/${path}.svg`;
 };
 
 export const ITEMS_GAME_URL =
@@ -20,7 +20,7 @@ export const CSGO_ENGLISH_URL =
     "https://raw.githubusercontent.com/ByMykel/counter-strike-file-tracker/main/static/csgo_english.json";
 
 export const IMAGES_INVENTORY_URL =
-    "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/images.json";
+    "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/images.json";
 
 export const LANGUAGES_URL = [
     {
