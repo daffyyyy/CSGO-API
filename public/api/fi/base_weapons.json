@@ -1,0 +1,739 @@
+[
+ {
+  "id": "base_weapon-weapon_deagle",
+  "name": "Desert Eagle",
+  "description": "Desert Eagle on kallis ja tehokas, taitoa vaativa ja äärimmäisen suosittu pistooli, joka on pitkällä matkalla yllättävän tarkka.",
+  "def_index": 1,
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_deagle_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_elite",
+  "name": "Tupla-Berettat",
+  "description": "Kahdella isolippaisella Berettalla yhtä aikaa ampuminen alentaa tarkkuutta ja hidastaa lataamista. Mutta toisaalta saa ampua kahdella isolippaisella Berettalla yhtä aikaa.",
+  "def_index": 2,
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_elite_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_fiveseven",
+  "name": "Five-SeveN",
+  "description": "Tarkka ja panssarin läpäisevä Five-SeveN on kallis, hitaasti lataava pistooli, joka tarjoaa vastapainona 20 panoksen lippaan ja pehmeän rekyylin.",
+  "def_index": 3,
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_fiveseven_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_glock",
+  "name": "Glock-18",
+  "description": "Glock 18 on hyödyllinen ensimmäisen kierroksen pistooli, joka pystyy ampumaan kolmen ammuksen sarjoja ja tehoaa parhaiten vihollisiin, joilla ei ole Kevlar-liiviä.",
+  "def_index": 4,
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_glock_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_ak47",
+  "name": "AK-47",
+  "description": "Voimakas ja aina yhtä luotettava AK-47 on eräs maailman suosituimpia rynnäkkökivääreitä. Se on tappavimmillaan pieniä, hallittuja tulipurskeita ammuttaessa.",
+  "def_index": 7,
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_ak47_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_aug",
+  "name": "AUG",
+  "description": "AUG on tehokas ja tarkka kiikarirynnäkkökivääri, joka kompensoi pitkiä latausaikojaan tappavalla tarkkuudellaan ja suurella tulinopeudellaan.",
+  "def_index": 8,
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_aug_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_awp",
+  "name": "AWP",
+  "description": "Pahamaineinen AWP on riskaabeli mutta hyödyllinen valinta. Sen tunnistaa äänestä ja siitä, että jokainen osuma on taattu tappo.",
+  "def_index": 9,
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_awp_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_famas",
+  "name": "FAMAS",
+  "description": "FAMAS on penninvenyttäjän halpa vaihtoehto, joka osuu sopivasti kalliimpien kiväärien ja vähemmän tehokkaiden konepistoolien väliin.",
+  "def_index": 10,
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_famas_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_g3sg1",
+  "name": "G3SG1",
+  "description": "Hintava G3SG1 hidastaa matkantekoasi huomattavasti, mutta ampuu paljon nopeammin kuin muut kiikarikiväärit.",
+  "def_index": 11,
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_g3sg1_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_galilar",
+  "name": "Galil AR",
+  "description": "Galil AR on terroristien rynnäkkökiväärien joukossa se halvempi vaihtoehto ja oiva ratkaisu keskipitkän ja pitkän matkan taisteluihin.",
+  "def_index": 13,
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_galilar_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_m249",
+  "name": "M249",
+  "description": "Tehokas ja avoimiin tiloihin soveltuva M249-konekivääri on täydellinen pelaajille, jotka haluavat lisää tarkkuutta ja suuremman ammusmäärän tulitusnopeuden kustannuksella.",
+  "def_index": 14,
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Raskaat"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_m249_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_m4a1",
+  "name": "M4A4",
+  "description": "M4A4 on erikoisjoukkojen tarkempi, mutta heikompi vastine terroristien AK-47-rynnäkkökiväärille.",
+  "def_index": 16,
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_m4a1_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_mac10",
+  "name": "MAC-10",
+  "description": "MAC-10 on käytännössä laatikko, joka syytää luoteja kuin tykinsuusta, mutta tarkkuudessa ja rekyylissä olisi toivomisen varaa.",
+  "def_index": 17,
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Konepistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mac10_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_p90",
+  "name": "P90",
+  "description": "P90 on helppo tunnistaa ainutlaatuisesta bullpup-mallistaan. Se sopii ison lippaan ja vähäisen rekyylin ansiosta liikkeessä ampumiseen.",
+  "def_index": 19,
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Konepistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_p90_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_mp5sd",
+  "name": "MP5-SD",
+  "description": "MP5 on ikoninen konepistooli, jota on yritetty turhaan jäljitellä. Se on ehkä maailman monikäyttöisin ja suosituin konepistooli. Tästä versiosta löytyy integroitu äänenvaimennin, joka tekee mahtavasta aseesta hiirenhiljaisen.",
+  "def_index": 23,
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Konepistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mp5sd_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_ump45",
+  "name": "UMP-45",
+  "description": "UMP45 on konepistoolien keskivertoa. Sen pieni lipas on aseen ainoa huono puoli, muuten se on hyvin monipuolinen automaattiase lähitaisteluihin.",
+  "def_index": 24,
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Konepistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_ump45_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_xm1014",
+  "name": "XM1014",
+  "description": "XM1014 on tehokas täysautomaattihaulikko, jonka kallista hintalappua kompensoi sen tulinopeus.",
+  "def_index": 25,
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Raskaat"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_xm1014_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_bizon",
+  "name": "PP-Bizon",
+  "description": "Bizon-konepistooli ei tarjoa suurta tulivoimaa, mutta siinä on ainutlaatuinen, tilava rumpulipas, joka lataa nopeasti.",
+  "def_index": 26,
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Konepistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_bizon_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_mag7",
+  "name": "MAG-7",
+  "description": "Erikoisjoukkojen Mag-7 takaa tappavan annoksen vahinkoa lähikantamalta. Nopea lipaslataus tekee siitä mahtavan taktisen vaihtoehdon.",
+  "def_index": 27,
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Raskaat"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mag7_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_negev",
+  "name": "Negev",
+  "description": "Negev pitää viholliset loitolla tarkalla tulituksellaan, kunhan sinulla on tarpeeksi aikaa saada se hallintaan.",
+  "def_index": 28,
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Raskaat"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_negev_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_sawedoff",
+  "name": "Katkaistu haulikko",
+  "description": "Klassinen katkaistu haulikko tekee hurjan määrän vahinkoa lähietäisyydeltä, mutta kun ase on epätarkka, ampuu hitaasti ja levittää haulit ympäriinsä, niin ensimmäisen osuman on paras tappaa.",
+  "def_index": 29,
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Raskaat"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_sawedoff_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_tec9",
+  "name": "Tec-9",
+  "description": "Ihanteellinen pistooli liikkuvalle terroristille. Tec-9 tappaa lähitaistelussa ja tarjoaa suuren lippaan.",
+  "def_index": 30,
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_tec9_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_taser",
+  "name": "Zeus x27",
+  "description": "Uudelleen ladattava Zeus x27 on täydellinen lähikantaman väijytyksiin ja suljettujen tilojen taisteluihin, sillä se voi lamauttaa vihollisen yhdellä osumalla.",
+  "def_index": 31,
+  "category": {
+   "id": "loadoutslot_equipment",
+   "name": "Varusteet"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_taser_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_hkp2000",
+  "name": "P2000",
+  "description": "Tarkka ja hallittava saksalaisvalmisteinen P2000 on hyödyllinen ensimmäisen erän pistooli, joka toimii parhaiten suojattomia vihollisia vastaan.",
+  "def_index": 32,
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_hkp2000_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_mp7",
+  "name": "MP7",
+  "description": "MP7 on monipuolinen ja kallis saksalainen konepistooli, joka on täydellinen lähitaistelutilanteissa.",
+  "def_index": 33,
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Konepistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mp7_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_mp9",
+  "name": "MP9",
+  "description": "Sveitsiläinen MP9 on ergonominen polymeerikonepistooli, joka on varsinkin yksityisten vartiointifirmojen suosiossa.",
+  "def_index": 34,
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Konepistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mp9_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_nova",
+  "name": "Nova",
+  "description": "Nova on erittäin halpa väijytysase niille, joilla on matti kukkarossa.",
+  "def_index": 35,
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Raskaat"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_nova_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_p250",
+  "name": "P250",
+  "description": "P250 on hyvin vähän potkaiseva ja nopeasti ampuva käsiase, joka on halpa ratkaisu panssaroituja vihollisia vastaan.",
+  "def_index": 36,
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_p250_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_scar20",
+  "name": "SCAR-20",
+  "description": "SCAR-20 on puoliautomaattinen kiikarikivääri, joka tulittaa nopeasti ja tehokkaasti pitkällä matkalla, mutta hidastaa liikettä ja maksaa hunajaa.",
+  "def_index": 38,
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_scar20_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_sg556",
+  "name": "SG 553",
+  "description": "Terroristien yksinoikeutettu SG553 on kiikarilla varustettu vaihtoehto AK-47-rynnäkkökiväärille pitkän matkan taisteluihin.",
+  "def_index": 39,
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_sg556_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_ssg08",
+  "name": "SSG 08",
+  "description": "SSG08-pulttilukkokivääri tekee vähäistä vahinkoa halpaan hintaan, joten se sopii hyvin alkuerien pitkän matkan tarkkuusammuntaan.",
+  "def_index": 40,
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_ssg08_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_knife",
+  "name": "Veitsi",
+  "description": "Taisteluveitsi on hiljainen ja aina saatavilla. Sen tavallinen hyökkäys on nopea mutta heikko, vaihtoehtoinen hyökkäys tappavampi. Hiljaiset pelaajat saavat selkäänpuukottamalla välittömän tapon.",
+  "def_index": 42,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_knife_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_flashbang",
+  "name": "Valokranaatti",
+  "description": "Valokranaatti ei tapa, mutta sokaisee hetkellisesti jokaisen iskukantaman alueella olevan, ja on siksi täydellinen vihollisen savustamiseen ulos ahtaista paikoista. Sen kova räjähdys peittää hetkellisesti myös askelten äänet.",
+  "def_index": 43,
+  "category": {
+   "id": "loadoutslot_grenade",
+   "name": "Kranaatit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_flashbang_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_hegrenade",
+  "name": "HE-kranaatti",
+  "description": null,
+  "def_index": 44,
+  "category": {
+   "id": "loadoutslot_grenade",
+   "name": "Kranaatit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_hegrenade_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_smokegrenade",
+  "name": "Savukranaatti",
+  "description": null,
+  "def_index": 45,
+  "category": {
+   "id": "loadoutslot_grenade",
+   "name": "Kranaatit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_smokegrenade_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_molotov",
+  "name": "Polttopullo",
+  "description": "Molotov on tehokas ja arvaamaton ase, joka leimahtaa liekkeihin osuessaan maahan ja vahingoittaa sen lähellä olevia pelaajia.",
+  "def_index": 46,
+  "category": {
+   "id": "loadoutslot_grenade",
+   "name": "Kranaatit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_molotov_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_decoy",
+  "name": "Harhautuskranaatti",
+  "description": null,
+  "def_index": 47,
+  "category": {
+   "id": "loadoutslot_grenade",
+   "name": "Kranaatit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_decoy_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_incgrenade",
+  "name": "Palopommi",
+  "description": null,
+  "def_index": 48,
+  "category": {
+   "id": "loadoutslot_grenade",
+   "name": "Kranaatit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_incgrenade_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_c4",
+  "name": "C4-räjähde",
+  "description": "Tämä improvisoitu muoviräjähde on vakaa ja kestää useimmat fyysiset rasitukset, ja sytytettäessä sen räjähdysnopeus on yli 8 000 m/s.",
+  "def_index": 49,
+  "category": {
+   "id": "loadoutslot_c4",
+   "name": "C4"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnjqWwLvfOoavw8IvTCV2bEle1w6Lk-TSq2k0x25jiBzN_9dXqVaQ91W5AkW6dU5WnQha4l"
+ },
+ {
+  "id": "base_weapon-weapon_healthshot",
+  "name": "Lääkepiikki",
+  "description": null,
+  "def_index": 57,
+  "category": {
+   "id": "loadoutslot_equipment",
+   "name": "Varusteet"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_healthshot_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_knife_t",
+  "name": "Veitsi",
+  "description": "Taisteluveitsi on hiljainen ja aina saatavilla. Sen tavallinen hyökkäys on nopea mutta heikko, vaihtoehtoinen hyökkäys tappavampi. Hiljaiset pelaajat saavat selkäänpuukottamalla välittömän tapon.",
+  "def_index": 59,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_knife_t_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_m4a1_silencer",
+  "name": "M4A1-S",
+  "description": "Äänenvaimentimella varustettu M4A1 on pienilippaisempi ja hiljaisempi vaihtoehto, joka takaa tarkat laukaukset.",
+  "def_index": 60,
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_m4a1_silencer_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_usp_silencer",
+  "name": "USP-S",
+  "description": "Vaimennettu USP-pistooli on pelaajien suosikki Counter-Strike: Sourcesta. Siihen kuuluu irrotettava äänenvaimennin, joka vähentää rekyyliä sekä huomiota herättävää ääntä.",
+  "def_index": 61,
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_usp_silencer_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_cz75a",
+  "name": "CZ75-Auto",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria.",
+  "def_index": 63,
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_cz75a_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_revolver",
+  "name": "R8-revolveri",
+  "description": "R8-revolveri on varsin tarkka voimanpesä, mutta liipaisinveto hidas. Kun lähitaistelussa tarvitaan raakaa pysäytysvoimaa, nopea tulitus iskurvasaraa läpsimällä on paras vaihtoehto.",
+  "def_index": 64,
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_revolver_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_bayonet",
+  "name": "Pistin",
+  "description": "Pistin ei ole juuri muuttunut sitten toisen maailmansodan, mutta sillä on silti paikkansa nykypäivän taistelutaktiikoissa. Pistinrynnäköt ovat pysyneet tehokkaina viime aikoinakin, kuten Persianlahden ja Afganistanin sodissa.",
+  "def_index": 500,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKni_DtU4fe6Jv07IfTDDT_JkL4htLI7HCvmwE9z42_Vzov4ci2Wa1IgWMN3R7IMuxCm0oqwYUAZNBA"
+ },
+ {
+  "id": "base_weapon-weapon_knife_css",
+  "name": "Klassinen veitsi",
+  "description": "Counter-Strike-sarjan klassikko. Puukon laita on puristettua stelliittiä, joka istuu täydellisesti muun terän titaaniin. Puukon kahva on fossilisoitunutta mastodontin luuta hiilikuitutupessa.",
+  "def_index": 503,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2te7cjd6HHXmHBxep157VtTi_rzUR-5WiHnt39c3_EZg4pW5UjQOZbsBCxw8qnab32FBG7RA"
+ },
+ {
+  "id": "base_weapon-weapon_knife_flip",
+  "name": "Taittoveitsi",
+  "description": null,
+  "def_index": 505,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2oZK19bqjKVjbDkbtwtbU4S3jhwElw4DvVzomhd3_CblV1CZd2TO5f4RG4lID5d7S15Y9TpQQ"
+ },
+ {
+  "id": "base_weapon-weapon_knife_gut",
+  "name": "Metsästysveitsi",
+  "description": null,
+  "def_index": 506,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2pfbAjd6TAXDSSkeh3trdtTCy1zUV2t2vTyoyrIHzDalAgCsN1ROcO40O6wMqnab0rKy1qHw"
+ },
+ {
+  "id": "base_weapon-weapon_knife_karambit",
+  "name": "Karambit",
+  "description": "Karambit, jonka kaareva terä muistuttaa tiikerin kynttä, kehitettiin osana Kaakkois-Aasian silat-kamppailulajeja. Veistä pidetään yleensä terä alaspäin etusormen ollessa veitsen kahvassa olevassa sormiaukossa.",
+  "def_index": 507,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2labZsLfKaGinEx-0u5LhqGHrjlElz52jRmN2sd3yfb1NzWZVwRbNeu0S5k9WxMuvh-UWA3ObnwJvj"
+ },
+ {
+  "id": "base_weapon-weapon_knife_m9_bayonet",
+  "name": "M9-pistin",
+  "description": "M9-pistin suunniteltiin alun perin kiinnitettäväksi kivääriin, mutta toimii hyvin myös lähikontaktissa.",
+  "def_index": 508,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2jMZtvIemcAGKEj7ojtOIwSnrrkEt25WiEw438cXuUaQB0WcBxFrUItxa6lNezMOKzsVPAy9USYWigJ8Q"
+ },
+ {
+  "id": "base_weapon-weapon_knife_tactical",
+  "name": "Metsämiehen veitsi",
+  "description": "Moderneihin, taktisiin käyttötarkoituksiin suunniteltu veitsi, jonka terä sopii mainiosti käytettäväksi sekä taistelussa että työkaluna. Ainutlaatuinen Tanto-terä läpäisee kovimmatkin pinnat tehokkaasti.",
+  "def_index": 509,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s26aad5KfOSAimVlugu47U5HSrmzEp14zncz4ygICiealIiAsF2EOdYtkTpwNXuYbjk-UWA3JpY_ZDP"
+ },
+ {
+  "id": "base_weapon-weapon_knife_falchion",
+  "name": "Falchion-veitsi",
+  "description": "Nykyaikaisena kunnianosoituksena falchion-miekalle tässä terässä on kurvikas kärki.",
+  "def_index": 512,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2oaahuKPmcACmSlL4u5uVqG37klhh24DnUytaqJXKQbgcmX5RyF-4Puha8xofmZejg-UWA3FLkEz9H"
+ },
+ {
+  "id": "base_weapon-weapon_knife_survival_bowie",
+  "name": "Bowie-puukko",
+  "description": "Tämä täysruotorakenteinen, hammastettu Bowie-puukko on suunniteltu kovaan käyttöön brutaaleissa selviytymistilanteissa.",
+  "def_index": 514,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s29fbZ7KeaSAliSzvl_ta88TX61xExyt2nTz9eveHjEPQRzXMcjFuYIuhHtkIKyNLnmtACLg4sX02yg2XbF4Kcv"
+ },
+ {
+  "id": "base_weapon-weapon_knife_butterfly",
+  "name": "Perhosveitsi",
+  "description": "Tämä on mittatilauksena tehty balisong, joka tunnetaan yleisesti perhosveitsenä. Tämän aseen erityispiirteenä on sen vapaasti kääntyvän terän viuhkamainen avautuminen, joka sallii sen nopean käyttöönoton tai kätkemisen. Tämän seurauksena perhosveitset ovat laittomia monissa maissa.",
+  "def_index": 515,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2sfbB5JeKVAn7elO8l6LRoF3_hzBsmtWSDzt-rcy3BP1AnXsR4FOJZskG6xtDkM7627xue1dy94mNpNQ"
+ },
+ {
+  "id": "base_weapon-weapon_knife_push",
+  "name": "Varjotikarit",
+  "description": "Tehokas mutta brutaali nyrkkipuukko yhtä yksinkertainen kuin nyrkinisku naamaan.",
+  "def_index": 516,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2-fbdlbvXKWWXIlbh15bdrTnvmwkt34z_Qz46hdnjFbAIkCJdzR-Zctxi5kNb5d7S1mgn3amY"
+ },
+ {
+  "id": "base_weapon-weapon_knife_cord",
+  "name": "Paracord-kahvainen kenttäpuukko",
+  "description": "Tämä selviytymisveitsi on suunniteltu sekä aseeksi että työkaluksi, ja sillä voi asettaa ansoja, metsästää eläimiä ja raivata lehvistöä. Veitsen kahvaan on kiedottu monikäyttöinen paracord-naru.",
+  "def_index": 517,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2tZ7ZpbqWRXmWTmbsm5bU5TXu3lkR_5j_Swor8JC_BPFVxWJd1FuID4RW7w9b5d7S1z-U4Rao"
+ },
+ {
+  "id": "base_weapon-weapon_knife_canis",
+  "name": "Selviytymisveitsi",
+  "description": "Tässä monikäyttöisessä taktisessa puukkossa on terävä koukku sekä sahalaitainen reuna, jonka ansioista sillä voi repiä jämäkämpääkin materiaalia, kuten luita tai kuituja. Sen komposiittikahva on kiinnitetty terään tukevasti kuusiomuttereilla.",
+  "def_index": 518,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2taapkM77CDzbIlrsms-NsHHGxzUwj5G6En4yuIy_BbQAjC5VxQLRc5hm8x4HvKaq8sEukLuHu"
+ },
+ {
+  "id": "base_weapon-weapon_knife_ursus",
+  "name": "Karhuveitsi",
+  "description": "Tässä tantō-tyylisessä selviytymisveitsessä on viistetty terä ja täysruoto, jotka on viimeistelty iskuponsilla. Ei hössötystä eikä liikkuvia osia - ainoastaan luotettava veitsi, joka on valmis töihin.",
+  "def_index": 519,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s27erd4M77AXWWWx7h3tOA5SyvilEkj5WuGw42qc3zEOg4iDJEjQu9b4xa6w4DgKaq8sDVgNcPY"
+ },
+ {
+  "id": "base_weapon-weapon_knife_gypsy_jackknife",
+  "name": "Linkkuveitsi",
+  "description": "Marmorikiillekahvaisessa taittoveitsessä on pieni mutta vaarallinen ja kapea terä.",
+  "def_index": 520,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2pcbR-Oc-ZD2SbyuB_tuQnGXu1kBxw62_dwtird3qXZwQgXJV0E-4PtESxl4ezYr6x4FaMjI4UyzK-0H1iy36efQ"
+ },
+ {
+  "id": "base_weapon-weapon_knife_outdoor",
+  "name": "Nomad-puukko",
+  "description": "Tämä ergonominen metsästykseen tarkoitettu kääntöveitsi koostuu komposiittikahvasta sekä leveästä ja tukevasta terästä. Hyödyllinen leikkelyyn ja materiaalin repimiseen.",
+  "def_index": 521,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2hfbBpL_-BQDPEw-hz57cxTnCxkEh_5jnVzor8dymXbgAiAsFyEOEMsBW8l9O1Ne38p1uJmh0Kkm0"
+ },
+ {
+  "id": "base_weapon-weapon_knife_stiletto",
+  "name": "Stiletti",
+  "description": "Historiassa eripuran ja säännöstelyn keskipisteenä olleessa italialaistyyppisessä stilettiveitsessä on jousitettu terä, jonka saa otettua esiin lähes välittömästi nappia painamalla.",
+  "def_index": 522,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s29fK1hJeSHASnCmO8v4bc_HCjilkkismTWyNutciqealMhDsR5F7MM4UWwlYC1Zr7n-UWA3E6ZCYCt"
+ },
+ {
+  "id": "base_weapon-weapon_knife_widowmaker",
+  "name": "Kynsiveitsi",
+  "description": "Tässä norsunluukahvaisessa karambit-veitsessä on messinkiniitit ja sahanteräselkä, minkä vuoksi se leikkaa mennessä ja repii tullessa.",
+  "def_index": 523,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s25YaBiN_2SBWKCj7ghsrRrTHDnzB8h4mTRw9iudC_DPFVyCsF3R-Zc4xK_ldXgNb7qsgDAy9USS1NPX9M"
+ },
+ {
+  "id": "base_weapon-weapon_knife_skeleton",
+  "name": "Skeleton-puukko",
+  "description": "Skeleton-puukon kahva on teipattu, jotta siitä saa paremman otteen. Reikään voi pujottaa sormen, jolloin ote on vakaampi ja turvallisempi.",
+  "def_index": 525,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s29Y6FhJeScACnDkL8j6LU8GS3mwUh24G-Bno2tIymeblMgC5R3F-ECsBK6k4XuN-Lh-UWA3P3GyEv9"
+ },
+ {
+  "id": "base_weapon-weapon_knife_kukri",
+  "name": "Kukri-veitsi",
+  "description": "Käytetään perinteisissä rituaaleissa, kuten häissä tai puukotuksissa.",
+  "def_index": 526,
+  "category": {
+   "id": "sfui_invpanel_filter_melee",
+   "name": "Veitset"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2lfa9_Kb6VXmPGwuogsbNvSyi3zR4jsTnQztyqdS6QP1IoXpoiEeAC5Be5l9CxKaq8sIvgdE5J"
+ },
+ {
+  "id": "base_weapon-t_gloves",
+  "name": "Terroristien perushanskat",
+  "description": "<i>Älä pelkää kastaa käsiäsi vereen. – Valeria Jenner, kapinallinen</i>",
+  "def_index": 5028,
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Hanskat"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/t_gloves_png.png"
+ },
+ {
+  "id": "base_weapon-ct_gloves",
+  "name": "Erikoisjoukkojen perushanskat",
+  "description": "Monikäyttöiset, taktiset taisteluhanskat, jotka on suunniteltu armeijan tai turvallisuushenkilöstön käyttöön.",
+  "def_index": 5029,
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Hanskat"
+  },
+  "image": "https://raw.githubusercontent.com/daffyyyy/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/ct_gloves_png.png"
+ }
+]
